@@ -1,0 +1,2 @@
+# PythonFundamental
+Some easy solution
